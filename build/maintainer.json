@@ -1962,7 +1962,8 @@
         "xyqfer"
     ],
     "/douban/doulist/:id": [
-        "LogicJake"
+        "LogicJake",
+        "honue"
     ],
     "/douban/event/hot/:locationId": [
         "xyqfer"
@@ -1979,8 +1980,9 @@
     "/douban/jobs/:type": [
         "Fatpandac"
     ],
-    "/douban/list/:type?": [
-        "5upernova-heng"
+    "/douban/list/:type?/:routeParams?": [
+        "5upernova-heng",
+        "honue"
     ],
     "/douban/movie/classification/:sort?/:score?/:tags?": [
         "zzwab"
@@ -2368,11 +2370,15 @@
     "/firecore/:os": [
         "NathanDai"
     ],
-    "/firefox/addons/:id": [],
+    "/firefox/addons/:id": [
+        "DIYgod"
+    ],
     "/firefox/breaches": [
         "TonyRL"
     ],
-    "/firefox/release/:platform": [],
+    "/firefox/release/:platform": [
+        "fengkx"
+    ],
     "/fisher-spb/news": [
         "denis-ya"
     ],
@@ -2820,6 +2826,9 @@
         "nicolaszf",
         "nczitzk"
     ],
+    "/gov/forestry/gjlckjdjt/:category?": [
+        "nczitzk"
+    ],
     "/gov/gaozhou/:path+": [
         "ShuiHuo"
     ],
@@ -2864,8 +2873,11 @@
     "/gov/maonan/:category": [
         "ShuiHuo"
     ],
-    "/gov/mee/ywdt?": [
+    "/gov/mee/ywdt/:category?": [
         "liuxsdev"
+    ],
+    "/gov/mem/gk/sgcc/:category?": [
+        "nczitzk"
     ],
     "/gov/mfa/wjdt/:category?": [
         "nczitzk"
@@ -2948,6 +2960,9 @@
         "Fatpandac"
     ],
     "/gov/province/:name/:category": [],
+    "/gov/samr/xgzlyhd/:category?/:department?": [
+        "nczitzk"
+    ],
     "/gov/sapprft/approval/:channel/:detail?": [],
     "/gov/sasac/:path+": [
         "TonyRL"
@@ -5408,6 +5423,9 @@
     "/pku/bbs/hot": [
         "wooddance"
     ],
+    "/pku/cls/announcement": [
+        "william-swl"
+    ],
     "/pku/cls/lecture": [
         "TPOB"
     ],
@@ -6569,14 +6587,14 @@
     "/telecompaper/search/:keyword?/:company?/:sort?/:period?": [
         "nczitzk"
     ],
-    "/telegram/telegram/blog": [
+    "/telegram/blog": [
         "fengkx"
     ],
-    "/telegram/telegram/channel/:username/:routeParams?": [
+    "/telegram/channel/:username/:routeParams?": [
         "DIYgod",
         "Rongronggg9"
     ],
-    "/telegram/telegram/stickerpack/:name": [
+    "/telegram/stickerpack/:name": [
         "DIYgod"
     ],
     "/tencent/bigdata": [],
@@ -6728,6 +6746,9 @@
     "/theverge/:hub?": [
         "HenryQW",
         "vbali"
+    ],
+    "/thoughtco/:category?": [
+        "nczitzk"
     ],
     "/threads/:user/:routeParams?": [
         "ninboy"
@@ -7700,6 +7721,9 @@
     ],
     "/yomiuri/:category?": [
         "Arracc"
+    ],
+    "/yomujp/:level?": [
+        "eternasuno"
     ],
     "/youdao/latest": [],
     "/youdao/xueba": [],

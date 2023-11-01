@@ -972,7 +972,7 @@ Stay up to date on the latest React news, tutorials, resources, and more. Delive
 
 :::tip
 
-官方提供了混合的主页资讯 RSS: <https://api.anquanke.com/data/v1/rss>
+官方提供了混合的主页资讯 RSS: [https://api.anquanke.com/data/v1/rss](https://api.anquanke.com/data/v1/rss)
 
 :::
 
@@ -1193,7 +1193,7 @@ Stay up to date on the latest React news, tutorials, resources, and more. Delive
 | ------------------- | ------------------------ | ------------------- | ---------------------- |
 | industry            | project                  | industry-news       | programming            |
 
-订阅 [全部板块资讯][osc_all] 可以使用 <https://rsshub.app/oschina/news>
+订阅 [全部板块资讯][osc_all] 可以使用 [https://rsshub.app/oschina/news](https://rsshub.app/oschina/news)
 
 [osc_all]: https://www.oschina.net/news "开源中国 - 全部资讯"
 
@@ -1446,7 +1446,7 @@ Stay up to date on the latest React news, tutorials, resources, and more. Delive
 
 ## 腾讯游戏开发者社区 {#teng-xun-you-xi-kai-fa-zhe-she-qu}
 
-:::caution
+:::warning
 
 有部分输出全文带有未进行样式处理的代码内容，显示效果不佳，建议跳转原文阅读
 
